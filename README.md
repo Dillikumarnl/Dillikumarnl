@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a backend developer with experience in Java (Spring Boot) and Python (Flask). I enjoy building reliable and scalable applications, and I’m always eager to learn new tools and technologies. Staying curious and growing every day is what drives me.  Technologies which are work with.
+I'm DilliKumar N a backend developer with experience in Java (Spring Boot) Js(React) and Python (Flask). I enjoy building reliable and scalable applications, and I’m always eager to learn new tools and technologies. Staying curious and growing every day is what drives me.  Technologies which are work with.
 
 💻 Programming Languages:
 - 🐍 Python
