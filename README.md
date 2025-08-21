@@ -43,6 +43,7 @@
 ☁️ Cloud & Data Engineering:
 - ☁️ Google Cloud Platform (GCP)
 - 📊 Google Cloud Data Engineering Foundations
+- 📑 AWS EC2, ECS, S3, EBS, RDS, CloudWatch, IAM.,
 
 
 
