@@ -1,49 +1,59 @@
-## Hi there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Dillikumarnl)
 
-  I'm DilliKumar N, a backend developer with experience in Java (Spring Boot) Js(React) and Python (Flask). I enjoy building reliable and scalable applications, and I’m always eager to learn new tools and technologies. Staying curious and growing every day is what drives me.  Technologies which are work with.
 
-💻 Programming Languages:
-- 🐍 Python
-- ☕ Java
-- 💾 C++
-- 📜 JavaScript
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Dillikumar Natesan</h1>
+<h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
 
-🧰 Frameworks & Libraries:
-- 🌱 Spring Boot
-- 🔥 Flask
-- 🌐 Angular
-- ⚛️ React
-- 🧩 Node.js
+<br/>
 
-🛠️ Tools & Technologies:
-- 🐳 Docker
-- 📦 Kubernetes
-- 📂 Git & GitHub
-- 🧪 Jenkins
-- 📄 JSON
-- 📈 Apache Spark
-- 🏗️ Terraform
-- 🛎️ Ansible
 
-🌐 Web & Backend Concepts:
-- 🚦 MVC
-- 🔗 REST APIs
-- 🧠 Distributed Systems
-- 🛡️ Cybersecurity
-- 🧮 Data Structures & Algorithms
-- 🏗️ Computer Architecture
+ - 🔭 I’m currently working on **Open Source Contributions**
+ - 🌱 I’m currently learning *Full Stack Java Development | MERN*
+ - 💬 Ask me about **Application Development**
+ - 🧒🏽 Pronouns: He/him
+ - ⚡ Fun fact: Dream come whenever doing new things.
+ - 📍 From **India**
 
-💾 Databases:
-- 🐬 MySQL
-- 🐘 PostgreSQL 
-- 🍃 MongoDB
-- 🧊 Cassandra
-- 📋 SQLite
+## - 📫 How to reach me: 
+  [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/dillikumarnl/)
+  [<img src="https://skillicons.dev/icons?i=github" />](https://github.com/Dillikumarnl)
 
-☁️ Cloud & Data Engineering:
-- ☁️ Google Cloud Platform (GCP)
-- 📊 Google Cloud Data Engineering Foundations
-- 📑 AWS EC2, ECS, S3, EBS, RDS, CloudWatch, IAM.
+
+
+<p align="center">
+
+<details>
+<summary>💻 Programming Languages:</summary> <br>
+
+  <img src="https://skillicons.dev/icons?i=java,js,c,cpp,css,html,ts" />
+</details>
+
+<details>
+<summary>🖼️ Frameworks & Libraries:</summary> <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,spring,flask,angular,django,fastapi" />
+</details>
+
+<details>
+<summary>🛠️ Tools & Technologies:</summary> <br>
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,webstorm,vscode,postman,bash,replit,vim,arduino,powershell" />
+</details>
+
+
+<details>
+<summary>🌐 Web & Backend Technologies:</summary> <br>
+  <img src="https://skillicons.dev/icons?i=maven,docker,git,hibernate,linux,nginx,ubuntu,sklearn,stackoverflow" />
+</details>
+
+<details>
+<summary>💾 DBMS's:</summary> <br>
+  <img src="https://skillicons.dev/icons?i=postgres,cassandra,mongodb,mysql,sqlite" />
+</details>
+
+<details>
+<summary>☁️ Cloud & Data Engineering:</summary> <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
+</details>
+
 
 
 
