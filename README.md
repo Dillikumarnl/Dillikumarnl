@@ -11,7 +11,7 @@
  - 🌱 I’m currently learning *Full Stack Java Development | MERN*
  - 💬 Ask me about **Application Development**
  - 🧒🏽 Pronouns: He/him
- - ⚡ Fun fact: Dream come whenever doing new things.
+ - ⚡ Fun fact: Dream come whenever doing new things
  - 📍 From **India**
 
 ## - 📫 How to reach me: 
