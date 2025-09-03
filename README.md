@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> I'm Dillikumar Natesan</h1>
-<h3 align="center">A Passionate Java Full Stack/Web developer | Software Engineer Enthusiast</h3>
+<h3 align="center">A Passionate Backend developer | Software Engineer Enthusiast</h3>
 
 <br/>
 
